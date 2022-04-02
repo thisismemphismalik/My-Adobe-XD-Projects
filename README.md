@@ -1,8 +1,8 @@
 # My Adobe XD Project
-I'm fan really of **UX** and since 2018, I work with Adobe XD to make my wireframes and prototypes.
+I'm really fan of **UX** and since 2018, I work with Adobe XD to make my wireframes and prototypes.
 
 ## treize.ml
-**treize** wants to the first malian platform that permit cultural organisations and artists to sell their events directly throught the internet.
+**treize** wants to be the first malian platform that permit cultural organisations and artists to sell their events directly throught the internet.
 
 I designed it in **2021**.
 
